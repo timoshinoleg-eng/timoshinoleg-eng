@@ -17,11 +17,11 @@ I am deliberately exploring several product lines instead of locking into one ni
 | Project | What it is | Status |
 | --- | --- | --- |
 | [**1C AI Workbench**](https://github.com/timoshinoleg-eng/1c-ai-workbench) | Local-first, read-only AI/MCP workbench for evidence-based analysis of 1C:Enterprise configurations. Python + Rust + FastMCP + SQLite. | **Pilot-ready** |
-| [**OFELIYA: STRAIN ZERO**](https://github.com/timoshinoleg-eng/ofeliya) | Mobile portrait roguelite-survivor for MAX Mini Apps with a platform-neutral MAX/Telegram layer, social systems, backend validation, and browser acceptance gates. | **Active / production hardening** |
+| [**OFELIYA: STRAIN ZERO**](https://github.com/timoshinoleg-eng/ofeliya) | Mobile portrait roguelite-survivor for MAX Mini Apps with a Telegram-compatible platform layer, social systems, competitive backend validation, and release hardening. | **Active / production hardening** |
 | [**Coder Survival**](https://github.com/timoshinoleg-eng/coder_survival) | Telegram Mini App game about surviving developer life: Preact + Phaser frontend, Node.js backend, PostgreSQL, squads, progression, and live-product infrastructure. | **Active** |
-| [**Moira**](https://github.com/timoshinoleg-eng/moira) | RU/EN AI tarot product for Telegram with generated readings, voice, referrals, privacy controls, Telegram Stars, and idempotent payment handling. | **Release candidate** |
-| [**CONVERGENCE**](https://github.com/timoshinoleg-eng/CONVERGENCE) | Mobile-first narrative incremental simulation about autonomous systems and instrumental convergence, built around deterministic product logic rather than runtime LLM dependence. | **Playable beta** |
-| [**MAX Games Hub**](https://github.com/timoshinoleg-eng/hub) | A mobile-first hub of 12 HTML5 games for MAX with a shared bridge, bot, privacy-aware analytics, daily mechanics, challenges, and production smoke tests. | **Active** |
+| [**Moira**](https://github.com/timoshinoleg-eng/moira) | RU/EN AI tarot product for Telegram with generated readings, voice features, experimental referrals, privacy controls, Telegram Stars, and idempotent payment handling. | **Release candidate** |
+| [**CONVERGENCE**](https://github.com/timoshinoleg-eng/CONVERGENCE) | Mobile-first narrative incremental simulation about autonomous systems and instrumental convergence, currently represented by a deterministic 0–10 minute gameplay vertical slice. | **Vertical slice / beta hardening** |
+| [**MAX Games Hub**](https://github.com/timoshinoleg-eng/hub) | A mobile-first hub of 12 enabled HTML5 games for MAX with a shared bridge, bot, privacy-aware analytics, daily mechanics, challenges, and explicit deployment gates. | **Soft-launch foundation** |
 | [**ChatBot24**](https://chatbot24.su/) | B2B automation: bots, Mini Apps, lead flows, integrations, and applied AI for small and medium businesses. | **Commercial / B2B** |
 
 ## Other engineering work
